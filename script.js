@@ -1,3 +1,1 @@
-$(document).ready(function(){ 
-alert("screw you");
-}
+console.log("shentech ");
