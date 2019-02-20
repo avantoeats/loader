@@ -1,1 +1,3 @@
-console.log("script activated");
+$(document).ready(function(){ 
+alert("screw you");
+}
